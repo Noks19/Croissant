@@ -1,0 +1,35 @@
+body {
+  background-color: #f8cab0;
+}
+
+h1 {
+  text-align: center;
+  color: #151024;
+}
+
+h3 {
+  text-align: center;
+}
+
+p {
+  text-align: justify;
+  font-size: 24px;
+}
+
+.links {
+  justify-content: space-evenly;
+  text-align: center;
+  text-decoration: none;
+  display: flex;
+  font-size: larger;
+}
+
+a:visited {
+  color: #151024;
+}
+
+img {
+  width: 600px;
+  display: block;
+  margin: auto;
+}
